@@ -15,6 +15,9 @@
   <a href="https://www.instagram.com/_jizzy_b_/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white" />
+  </a>
 </p>
 
 <br>
@@ -34,15 +37,6 @@
   <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-</p>
-
-<br>
-
-<h3 align="center">Contribute to Vidhan</h3>
-<p align="center">
-  <a href="">
-    <img src="https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white" />
-  </a>
 </p>
 
 <br>
