@@ -39,7 +39,7 @@
 <br>
 
 <h3 align="center">Contribute to Vidhan</h3>
-<p align="center">
+<p>
   <a href="https://linkedin.com/in/vidhanmangla">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
