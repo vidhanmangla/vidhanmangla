@@ -29,6 +29,8 @@
 <p align="center">A crypto enthusiast with experience developing dApps on EVM based blockchains with 1+ year of expertise, skilled at writing, testing, deploying and auditing Smart Contracts by taking care of gas optimisation and security.</p>
 <p align="center">A pressure-coping motor-racing driver with a calm demeanour, spends his free time as a musician.</p>
 
+<br>
+
 <h3 align="center">Languages and Tools</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
