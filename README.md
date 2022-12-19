@@ -57,16 +57,3 @@
     <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" />
   </a>
 </p>
-
-<br>
-
-<table>
-  <tr>
-    <td>
-      <img height="184" src="https://github-readme-stats.vercel.app/api?username=vidhanmangla&show_icons=true&theme=dark" />
-    </td>
-    <td>
-      <img height="184" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vidhanmangla&layout=compact&theme=dark" />
-    </td>
-  </tr>
-</table>
