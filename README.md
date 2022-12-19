@@ -39,12 +39,9 @@
 <br>
 
 <h3 align="center">Contribute to Vidhan</h3>
-<p>
+<p align="center">
   <a href="">
     <img src="https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white" />
-  </a>
-  <a href="">
-    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
   </a>
 </p>
 
