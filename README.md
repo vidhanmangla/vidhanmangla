@@ -1,5 +1,5 @@
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
-<h1 align="center">Hi, I'm Vidhan<br></br><h3>Smart Contract, Blockchain & Web3 Developer</h3></h1>
+<h1 align="center">Hi, I'm Vidhan<br></br><small>Smart Contract, Blockchain & Web3 Developer</small></h1>
 
 <p align="center">
   <a href="https://linkedin.com/in/vidhanmangla">
