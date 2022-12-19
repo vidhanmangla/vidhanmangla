@@ -45,7 +45,7 @@
 
 <br>
 
-<h3 align="center">Crypto</h3>
+<h3 align="center">Make Me Rich</h3>
 <p align="center">
   <a href="">
     <img src="https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white" />
