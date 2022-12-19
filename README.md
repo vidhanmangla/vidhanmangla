@@ -16,7 +16,7 @@
 <br>
 
 <p align="center">Smart Contract, Blockchain & Web3 Developer with 1+ year of expertise, skilled at writing, testing, deploying and auditing Smart Contracts by taking care of gas optimisation and security. A crypto enthusiast with experience developing dApps on EVM based blockchains.</p>
-<p>A pressure-coping motor-racing driver with a calm demeanour, spends his free time as a musician.</p>
+<p align="center">A pressure-coping motor-racing driver with a calm demeanour, spends his free time as a musician.</p>
 
 <h3 align="center">Languages and Tools</h3>
 <p align="center">
