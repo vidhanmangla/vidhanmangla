@@ -51,7 +51,7 @@
 <p align="center">I prefer getting paid in crypto</p>
 <p align="center">
   <a href="">
-    <img src="https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white" />
+    <img src="https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white" /><p>zpub6rLzuZui138pePyfDrKEsfhdtpZXMunrENeiiCYqzdDud9HeZATZcuNdkcc2xCfnuMscfMN5CvEpF1YSBXWWmNudpFVRN3iDeGXEdWGxyw8</p>
   </a>
   <a href="">
     <img src="	https://img.shields.io/badge/tether-168363?style=for-the-badge&logo=tether&logoColor=white" />
