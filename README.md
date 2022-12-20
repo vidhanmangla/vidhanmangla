@@ -51,12 +51,12 @@
 <p align="center">I prefer getting paid in crypto</p>
 <p align="center">
   <a href="">
-    <img src="https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white" /><p>zpub6rLzuZui138pePyfDrKEsfhdtpZXMunrENeiiCYqzdDud9HeZATZcuNdkcc2xCfnuMscfMN5CvEpF1YSBXWWmNudpFVRN3iDeGXEdWGxyw8</p>
+    <img src="https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white" /><p>bc1qk84vcasf46uuqky9s2gf5adqyuhk4x02ykyt90</p>
   </a>
   <a href="">
     <img src="	https://img.shields.io/badge/tether-168363?style=for-the-badge&logo=tether&logoColor=white" />
   </a>
   <a href="">
-    <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" />
+    <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" /><p>0xf3190617d514534Ce27a65adeF8e7c172C998423</p>
   </a>
 </p>
