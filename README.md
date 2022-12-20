@@ -59,7 +59,7 @@
   <a>
     <img src="	https://img.shields.io/badge/tether-168363?style=for-the-badge&logo=tether&logoColor=white" />
   </a>
-  <a align="center">
+  <a>
     <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" />
   </a>
   <p align="center">
