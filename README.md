@@ -62,11 +62,11 @@
 <p align="center">
 
   <a>
-      <img src="https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white" />"bc1qk84vcasf46uuqky9s2gf5adqyuhk4x02ykyt90"
+      <img src="https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white" />"bc1q6gnjqgcxf9527qxly0kflyj2e9uwpp2rgypck8"
   </a>
   <br>
   <a>
-      <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" />"0xf3190617d514534Ce27a65adeF8e7c172C998423"
+      <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" />"0x011e9527D3f0f23193a96892cA1a92Af7ec27FDd"
   </a>
 
 </p>
