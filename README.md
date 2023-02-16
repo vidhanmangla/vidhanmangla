@@ -11,7 +11,7 @@
   <a href="mailto:vidhanmangla@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="http://vidhanmangla.com">
+  <a href="https://vidhanmangla.eth.limo">
       <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
   <a href="https://discord.com/invite/q5XtpBGWvb">
