@@ -66,7 +66,7 @@
   </a>
   <br>
   <a>
-      <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" />"0x011e9527D3f0f23193a96892cA1a92Af7ec27FDd"
+      <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" />"vidhanmangla.eth"
   </a>
 
 </p>
