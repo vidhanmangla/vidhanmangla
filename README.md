@@ -62,7 +62,7 @@
 <p align="center">
 
   <a>
-      <img src="https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white" />"bc1q6gnjqgcxf9527qxly0kflyj2e9uwpp2rgypck8"
+      <img src="https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white" />"bc1q2dewvwej2tx33rdy3npp6j53q48wz3a8ycl5xh"
   </a>
   <br>
   <a>
