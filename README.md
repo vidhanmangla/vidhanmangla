@@ -1,4 +1,5 @@
-![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
+![hero](https://user-images.githubusercontent.com/101626397/229322142-e02eb8a9-1f60-4cbc-b2d5-f4bb9fc0e60e.png)
+
 <h1 align="center">Hi, I'm Vidhan</h1>
 <p align="center">Smart Contract, Blockchain & Web3 Developer</p>
 <p align="center">Guitarist and Motor-Racing Driver</p>
