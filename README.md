@@ -63,11 +63,11 @@
 <p align="center">
 
   <a>
-      <img src="https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white" />"bc1q2dewvwej2tx33rdy3npp6j53q48wz3a8ycl5xh"
+      <img src="https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white" /> "bc1q2dewvwej2tx33rdy3npp6j53q48wz3a8ycl5xh"
   </a>
   <br>
   <a>
-      <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" />"vidhanmangla.eth" || "0x4166608c761134990660a1fBb230bB62Ce2380D6"
+      <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" /> "0x4166608c761134990660a1fBb230bB62Ce2380D6" || "vidhanmangla.eth"
   </a>
 
 </p>
