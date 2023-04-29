@@ -1,4 +1,3 @@
-![hero](https://user-images.githubusercontent.com/101626397/229322142-e02eb8a9-1f60-4cbc-b2d5-f4bb9fc0e60e.png)
 ![Screenshot 2023-04-29 180743](https://user-images.githubusercontent.com/101626397/235315001-13a8af27-0c7e-4e26-aca3-c288e58afba7.png)
 
 <h1 align="center">Hi, I'm Vidhan</h1>
