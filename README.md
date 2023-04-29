@@ -1,4 +1,4 @@
-![Screenshot 2023-04-29 180743](https://user-images.githubusercontent.com/101626397/235315001-13a8af27-0c7e-4e26-aca3-c288e58afba7.png)
+![Smart Contract](https://user-images.githubusercontent.com/101626397/235315127-fe97579c-31cb-4c46-b6d9-f9a3ace2652f.png)
 
 <h1 align="center">Hi, I'm Vidhan</h1>
 <p align="center">Smart Contract, Blockchain & Web3 Developer</p>
