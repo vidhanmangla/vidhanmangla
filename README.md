@@ -1,4 +1,5 @@
 ![Smart Contract](https://user-images.githubusercontent.com/101626397/235315127-fe97579c-31cb-4c46-b6d9-f9a3ace2652f.png)
+<a align="center">A fairer financial system</a>
 
 <h1 align="center">Hi, I'm Vidhan</h1>
 <p align="center">Smart Contract, Blockchain & Web3 Developer</p>
