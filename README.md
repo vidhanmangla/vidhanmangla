@@ -1,4 +1,4 @@
-![smart_contract](https://github.com/vidhanmangla/vidhanmangla/assets/101626397/dbabe09f-1d82-405e-9bfe-7d49a5b8b6bc)
+![smart_contract](https://github.com/vidhanmangla/vidhanmangla/assets/101626397/05c5f257-a483-4da6-b700-9ad5fae303b8)
 <p align="center">"Working for a fair financial system"</p>
 
 <h1 align="center">Hi, I'm Vidhan</h1>
