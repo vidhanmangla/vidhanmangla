@@ -1,6 +1,5 @@
 ![evm](https://github.com/vidhanmangla/vidhanmangla/assets/101626397/f07b0c44-fd7f-45e2-ab48-3d0c26566c1c)
 <p align="center">Working for a fair financial system</p>
-<a align="center" href="https://www.fontspace.com/category/calligraphy"><img src="https://see.fontimg.com/api/renderfont4/OV9ee/eyJyIjoiZnMiLCJoIjoyOCwidyI6MTI1MCwiZnMiOjIyLCJmZ2MiOiIjMDAwMDAwIiwiYmdjIjoiI0ZGRkZGRiJ9/Q3J5cHRvZ3JhcGhpYyB0cnV0aCBhbmQgaHlicmlkIHNtYXJ0IGNvbnRyYWN0cyBhcmUgcmVpbnZlbnRpbmcgaG93IGV2ZXJ5IGFncmVlbWVudCB0aGF0IG5lZWRzIHRvIGJlIHRydXN0ZWQgd2lsbCB3b3JrLg/lucy-said-ok-personal-use-italic.png" alt="Calligraphy fonts"></a>
 
 <h1 align="center">Hi, I'm Vidhan</h1>
 <p align="center">Smart Contract, Blockchain & Web3 Developer</p>
