@@ -2,6 +2,7 @@
 <p align="center">Working for a fair financial system</p>
 <p align="center">Cryptographic truth and hybrid smart contracts are reinventing how every agreement that needs to be trusted will work.</p>
 <a href="https://www.fontspace.com/category/cursive"><img src="https://see.fontimg.com/api/renderfont4/1Gvo0/eyJyIjoiZnMiLCJoIjo4MSwidyI6MTI1MCwiZnMiOjY1LCJmZ2MiOiIjMDAwMDAwIiwiYmdjIjoiI0ZGRkZGRiJ9/Q3J5cHRvZ3JhcGhpYyB0cnV0aCBhbmQgaHlicmlkIHNtYXJ0IGNvbnRyYWN0cyBhcmUgcmVpbnZlbnRpbmcgaG93IGV2ZXJ5IGFncmVlbWVudCB0aGF0IG5lZWRzIHRvIGJlIHRydXN0ZWQgd2lsbCB3b3JrLg/weddingday-personal-use-regular.png" alt="Cursive fonts"></a>
+<a href="https://www.fontspace.com/category/cursive"><img src="https://see.fontimg.com/api/renderfont4/1Gvo0/eyJyIjoiZnMiLCJoIjo4MSwidyI6MTI1MCwiZnMiOjY1LCJmZ2MiOiIjMDAwMDAwIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/ZXZlcnkgYWdyZWVtZW50IHRoYXQgbmVlZHMgdG8gYmUgdHJ1c3RlZCB3aWxsIHdvcmsu/weddingday-personal-use-regular.png" alt="Cursive fonts"></a>
 
 <h1 align="center">Hi, I'm Vidhan</h1>
 <p align="center">Smart Contract, Blockchain & Web3 Developer</p>
