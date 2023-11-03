@@ -60,7 +60,7 @@
 
 
 <h3 align="center">Make Me Rich</h3>
-<p align="center">I prefer getting paid in crypto</p>
+<p align="center">I prefer getting paid in decentralised finance</p>
 <p align="center">
 
   <a>
