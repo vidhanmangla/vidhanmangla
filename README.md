@@ -29,7 +29,7 @@
 <br>
 
 
-<p align="center">A crypto enthusiast with experience developing production grade decentralised applications on EVM-compatible blockchains with 2+ years of expertise, skilled at writing, testing, deploying and auditing smart contracts by taking care of gas optimisation and security.</p>
+<p align="center">A Blockchain enthusiast with experience developing production grade decentralised applications on EVM-compatible blockchains with 2+ years of expertise, skilled at Smart Contracts, Web3 and Blockchain infrastructure development.</p>
 
 
 <br>
