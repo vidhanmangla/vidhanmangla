@@ -31,7 +31,7 @@
 
 <p align="center">A Blockchain enthusiast with 2+ years of experience developing production grade decentralised applications on EVM-compatible blockchains, skilled in Smart Contracts, Web3 and Blockchain infrastructure development.</p>
 
-<p align="center">On the side, I research cryptography, specifically Elliptic Curve Digital Signatures and Zero-knowledge proofs.</p>
+<p align="center">On the side, I research cryptography, specifically Elliptic-curve and Zero-knowledge proofs.</p>
 
 
 <br>
