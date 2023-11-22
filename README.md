@@ -1,5 +1,3 @@
-<p align="center">Working for a fair financial system</p>
-
 <h1 align="center">Hi, I'm Vidhan</h1>
 <p align="center">Smart Contract, Blockchain & Web3 Engineer</p>
 <p align="center">Guitarist and Motor-Racing Driver</p>
