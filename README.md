@@ -1,4 +1,3 @@
-![evm](https://github.com/vidhanmangla/vidhanmangla/assets/101626397/f07b0c44-fd7f-45e2-ab48-3d0c26566c1c)
 <p align="center">Working for a fair financial system</p>
 
 <h1 align="center">Hi, I'm Vidhan</h1>
