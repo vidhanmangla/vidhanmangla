@@ -26,24 +26,6 @@
 <br>
 
 
-<p align="center">A Blockchain enthusiast with 2+ years of experience developing production grade decentralised applications on EVM-compatible blockchains, skilled in Smart Contracts, Web3 and Blockchain infrastructure development.</p>
+<p align="center">A blockchain technology enthusiast with 3+ years of experience developing production grade decentralised applications on EVM-compatible blockchains, skilled in smart contracts, web3 and blockchain infrastructure development.</p>
 
-<p align="center">On the side, I research cryptography, specifically Elliptic-curve, and Zero-knowledge proofs.</p>
-
-
-<br>
-
-
-<h3 align="center">Make Me Rich</h3>
-<p align="center">I prefer getting paid in DeFi</p>
-<p align="center">
-
-  <a>
-      <img src="https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white" /> "bc1q2dewvwej2tx33rdy3npp6j53q48wz3a8ycl5xh"
-  </a>
-  <br>
-  <a>
-      <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" /> "vidhanmangla.eth"
-  </a>
-
-</p>
+<p align="center">My passion for blockchains drives my continuous exploration of advanced cryptographic techniques, specifically elliptic-curve and zero-knowledge proofs.</p>
