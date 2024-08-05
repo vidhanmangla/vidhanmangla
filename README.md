@@ -43,7 +43,7 @@
   </a>
   <br>
   <a>
-      <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" /> "0x4166608c761134990660a1fBb230bB62Ce2380D6" || "vidhanmangla.eth"
+      <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" /> "vidhanmangla.eth"
   </a>
 
 </p>
